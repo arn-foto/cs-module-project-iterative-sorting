@@ -1,3 +1,5 @@
+# testing testing 1 2 3
+#
 # TO-DO: Complete the selection_sort() function below
 def selection_sort(arr):
     # loop through n-1 elements
